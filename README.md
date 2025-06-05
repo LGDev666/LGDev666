@@ -61,14 +61,6 @@ Diversas soluções comerciais:
 
 ---
 
-## 🐍 Snake Commit (Contribuição animada)
-
-<p align="center">
-  <img src="https://github.com/LGDev666/LGDev666/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
 ## 🌐 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-9ba170309/)
