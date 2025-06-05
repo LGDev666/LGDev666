@@ -2,7 +2,7 @@
 
 <h1 align="center">🧠 Luiz Gustavo – Desenvolvedor Full Stack</h1>
 
-<p align="center">🎮 Apaixonado por tecnologia, jogos e engenharia reversa. Explorando sempre os limites da criatividade com código.</p>
+<p align="center">🎮 Apaixonado por tecnologia, jogos e engenharia reversa. Explorando sempre os limites da criatividade com códigos.</p>
 
 ---
 
@@ -45,7 +45,8 @@ Diversas soluções comerciais:
 
 ### 🧠 FMU - ESTUDOS E ENSINANDO OUTROS DEV'S
 - **Tasks**: Gestor de tarefas voltado à produtividade no varejo.
-- **API REST**: Integrações entre plataformas para automatização de processos internos.
+- **API REST CATNIP**: Integrações entre plataformas para automatização de processos internos.
+- **CATNIP ECCOMERCE**: Eccomerce completo feito para um projeto acadêmico e também com intuito de ensinar novos dev's.
 
 ---
 
