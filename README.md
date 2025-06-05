@@ -8,7 +8,7 @@
 
 ## 🇧🇷 Sobre Mim
 
-Sou Luiz Gustavo, desenvolvedor full stack brasileiro com trajetória desde cedo na tecnologia, começando com telemarketing e vendas, evoluindo até o desenvolvimento de soluções reais no varejo e hoje em ferramentas para jogos e automações avançadas.
+Sou Luiz Gustavo, desenvolvedor full stack brasileiro com trajetória desde cedo na tecnologia, apreendendo a ler e escrever no computador, começando minha carreira com telemarketing e vendas de eletrônicos, evoluindo até o desenvolvimento de soluções reais no varejo e hoje em ferramentas para jogos e automações avançadas.
 
 - 💼 Atualmente atuando como **Analista de Suporte** no Hospital do Servidor Público.
 - 🧠 Estudando **Engenharia de Software** com foco em arquitetura e automações.
