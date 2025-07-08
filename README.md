@@ -2,7 +2,7 @@
 
 <h1 align="center">🧠 Luiz Gustavo – Desenvolvedor Full Stack</h1>
 
-<p align="center">🎮 Apaixonado por tecnologia, jogos e engenharia reversa. Explorando sempre os limites da criatividade com códigos.</p>
+<p align="center">🎮 Apaixonado por tecnologia, jogos e desenvolvimento. Explorando sempre os limites da criatividade com códigos.</p>
 
 ---
 
@@ -11,7 +11,7 @@
 Sou Luiz Gustavo, desenvolvedor full stack brasileiro com trajetória desde cedo na tecnologia, apreendendo a ler e escrever no computador, começando minha carreira com telemarketing e vendas de eletrônicos, evoluindo até o desenvolvimento de soluções reais no varejo e hoje em ferramentas para jogos e automações avançadas.
 
 - 💼 Atualmente atuando como **Analista de Suporte** no Hospital do Servidor Público.
-- 🧠 Estudando **Engenharia de Software** com foco em arquitetura e automações.
+- 🧠 Cursando **Ciências Da Computação** com foco em Desenvolvimento.
 - 🧪 Crio soluções como o **DS4MTHACK**: engenharia de entrada para mouse-analógico com macro editor e modo stealth.
 - 🕹️ Criador de ferramentas para a **Evolution PDV** e projetos de automação de cartazes promocionais.
 - 🔁 Transitando da área de suporte para retornar à programação de forma plena e criativa.
