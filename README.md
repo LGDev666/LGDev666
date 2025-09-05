@@ -24,13 +24,15 @@ Sou Luiz Gustavo, desenvolvedor full stack brasileiro com trajetória desde cedo
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+
 
 ---
 
@@ -77,7 +79,7 @@ Diversas soluções comerciais:
 I'm Luiz Gustavo, a Brazilian Full Stack Developer passionate about tech, automation, and game input engineering. From working in retail to developing smart solutions for games and business processes — I love transforming problems into systems.
 
 #### 🔧 Skills
-JavaScript · TypeScript · PHP · C# · Python · Vue · React · Node.js · PostgreSQL · Docker
+JavaScript · TypeScript · PHP · Laravel · C# · Python · Vue · React · Node.js · PostgreSQL · Docker
 
 #### 🏆 Featured Projects
 - **DS4MTHACK** – advanced game input emulator in C#
