@@ -55,19 +55,20 @@ Diversas soluções comerciais:
 ## 📈 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LGDev666&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGDev666&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LGDev666&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGDev666&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  </div>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=LGDev666&theme=onedark&margin-w=10&no-frame=true" alt="Troféus"/>
 </p>
+
 
 ---
 
 ## 🌐 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-9ba170309/)
-- 🧠 [GitHub](https://github.com/LGDev666)
 
 ---
 
@@ -77,8 +78,6 @@ Diversas soluções comerciais:
 
 I'm Luiz Gustavo, a Brazilian Full Stack Developer passionate about tech, automation, and game input engineering. From working in retail to developing smart solutions for games and business processes — I love transforming problems into systems.
 
-#### 🔧 Skills
-JavaScript · TypeScript · PHP · Laravel · C# · Python · React · Node.js · PostgreSQL · Docker
 
 #### 🏆 Featured Projects
 - **DS4MTHACK** – advanced game input emulator in C#
@@ -91,7 +90,6 @@ See above — stats are bilingual 😄
 
 #### 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-9ba170309/)
-- [GitHub](https://github.com/LGDev666)
 
 ---
 
