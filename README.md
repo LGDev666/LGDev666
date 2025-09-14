@@ -54,14 +54,27 @@ Diversas soluções comerciais:
 
 ## 📈 Estatísticas GitHub
 
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LGDev666&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGDev666&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-  </div>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=LGDev666&theme=onedark&margin-w=10&no-frame=true" alt="Troféus"/>
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:40px 0; margin-top:20px; margin-bottom:20px;">
+  <tr>
+    <td align="center" style="width:50%;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=LGDev666&show_icons=true&theme=radical&hide_border=true" 
+        alt="Estatísticas do GitHub" 
+        height="220"/>
+    </td>
+    <td align="center" style="width:50%;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGDev666&layout=compact&theme=radical&hide_border=true" 
+        alt="Linguagens mais usadas" 
+        height="220"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center" style="margin-top:30px; margin-bottom:30px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=LGDev666&theme=onedark&margin-w=15&no-frame=true&no-bg=true" alt="Troféus"/>
 </p>
+
 
 
 ---
