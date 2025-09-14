@@ -17,13 +17,13 @@ Sou Luiz Gustavo, desenvolvedor full stack brasileiro com trajetória desde cedo
 - 🔁 Em transição de suporte para programação de forma plena e criativa.
 
 <p align="left">
-  <a href="https://github.com/AnaBeatrizVictorio?tab=repositories&sort=stargazers">
+  <a href="https://github.com/LGDev666?tab=repositories&sort=stargazers">
     <img alt="Total de estrelas" title="Total de estrelas GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/AnaBeatrizVictorio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a>
-  <a href="https://github.com/AnaBeatrizVictorio?tab=followers"> 
+      src="https://custom-icon-badges.demolab.com/github/stars/LGDev666?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a>
+  <a href="https://github.com/LGDev666?tab=followers"> 
     <img alt="Seguidores" 
       title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/AnaBeatrizVictorio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a>
+      src="https://custom-icon-badges.demolab.com/github/followers/LGDev666?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a>
 </p>
 
 ---
